@@ -19,6 +19,6 @@
 
 ### Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=laam-username&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laam-username&layout=compact&theme=transparent&hide_border=true&hide_title=true" height="150" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lamdx4&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamdx4&layout=compact&theme=transparent&hide_border=true&hide_title=true" height="150" alt="langs" />
 </p>
