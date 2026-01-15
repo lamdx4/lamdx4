@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm [Laam]
 
-<!--
-**lamdx4/lamdx4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>  Backend Developer focusing on TypeScript (Bun/Elysia) & .NET ecosystem.
 
-Here are some ideas to get you started:
+### Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,bun&theme=dark" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://elysiajs.com/" target="_blank">
+    <img src="https://elysiajs.com/assets/elysia.svg" width="48" height="48" alt="Elysia" style="vertical-align:bottom; margin: 0 4px;" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,linux&theme=dark" />
+  </a>
+</p>
+
+### Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&hide_title=true" height="150" alt="langs" />
+</p>
