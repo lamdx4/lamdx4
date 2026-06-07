@@ -4,7 +4,7 @@
 I'm a detail-oriented **Software Engineering student** at PTIT (GPA: 3.1/4.0) with a strong focus on Backend development and a Product Builder mindset. I enjoy solving real-world business logic, designing robust databases, and writing clean, maintainable code.
 
 * 🌱 **Currently focusing on:** Clean Architecture, Database Optimization (SQL/NoSQL), and Real-time features.
-* 💬 **Ask me about:** .NET Core, Node.js, PostgreSQL, or how I use Database Transactions to prevent overbooking!
+* 💬 **Ask me about:** .NET Core, Node.js, PostgreSQL.
 * 📫 **Reach me at:** dagxuanlam@gmail.com | [LinkedIn](https://linkedin.com/in/lamdx4)
 
 ### 🛠️ Tech Stack
