@@ -1,7 +1,7 @@
 # Hi there, I'm Lam Dang Xuan 👋
 
 ### 👨‍💻 About Me
-I'm a detail-oriented **Software Engineering student** at PTIT (GPA: 3.1/4.0) with a strong focus on Backend development and a Product Builder mindset. I enjoy solving real-world business logic, designing robust databases, and writing clean, maintainable code.
+I'm a detail-oriented **Software Engineering student** at PTIT (GPA: 3.2/4.0) with a strong focus on Backend development and a Product Builder mindset. I enjoy solving real-world business logic, designing robust databases, and writing clean, maintainable code.
 
 * 🌱 **Currently focusing on:** Clean Architecture, Database Optimization (SQL/NoSQL), and Real-time features.
 * 💬 **Ask me about:** .NET Core, Node.js, PostgreSQL.
@@ -24,6 +24,3 @@ I'm a detail-oriented **Software Engineering student** at PTIT (GPA: 3.1/4.0) wi
 ### 🚀 Featured Projects
 * **[AirVnv](https://github.com/lamdx4/airVnV):** Accommodation Booking Platform backend built with **.NET Core** & **PostgreSQL**. Features real-time chat via **SignalR** and robust checkout transactions to prevent overbooking.
 * **[Chat Chit](https://github.com/lamdx4/chat-chit-system):** Real-time messaging platform using **Node.js**, **MongoDB**, and **Socket.IO** for live user interaction and presence.
-
-### 📊 GitHub Stats
-![Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamdx4&show_icons=true&theme=radical)
